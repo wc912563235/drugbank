@@ -1,5 +1,6 @@
 # drugbank
-为知识图谱而准备的数据抽取程序集
+这是一个为知识图谱而准备的数据抽取程序集
+
 简介：为了制作知识图谱，需要将公开的药物数据库drugbank中的数据提取后做成能导入nebulagraph的格式
 xml文件过大无法上传至github，可在 https://go.drugbank.com/releases/latest 自行下载，解压后放入download文件夹即可
 
